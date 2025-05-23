@@ -48,3 +48,7 @@ cat ~/.ssh/id_ed25519.pub
 Pronto! Seu ambiente estará configurado para usar o Git e o GitHub junto com o RStudio.
 
 ---
+
+## Site com IA para encontrar o código Git que você precisa
+
+[https://www.gitfluence.com/?utm_source=creati.ai](https://www.gitfluence.com/?utm_source=creati.ai)
